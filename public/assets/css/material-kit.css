@@ -9536,7 +9536,7 @@ button:focus {
 
 .btn {
   position: relative;
-  padding: 12px 30px;
+  padding: 10px 20px;
   margin: 0.3125rem 1px;
   font-size: 0.8rem;
   font-weight: 400;
@@ -12092,9 +12092,9 @@ label {
   z-index: 3 !important;
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 400px), all and (max-height: 630px) {
   .page-header {
-    height: calc(100vh + 270px);
+    height: calc(100vh + 50px) !important;
   }
 
   .index-page {
