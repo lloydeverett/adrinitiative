@@ -9538,7 +9538,7 @@ button:focus {
   position: relative;
   padding: 12px 30px;
   margin: 0.3125rem 1px;
-  font-size: .75rem;
+  font-size: 0.8rem;
   font-weight: 400;
   line-height: 1.428571;
   text-decoration: none;
@@ -9837,8 +9837,8 @@ button:focus {
 
 .btn.btn-success {
   color: #fff;
-  background-color: #21cd8b;
-  border-color: #21be82;
+  background-color: #1fc082;
+  border-color: #1fc082;
   box-shadow: 0 2px 2px 0 rgba(76, 175, 80, 0.14), 0 3px 1px -2px rgba(76, 175, 80, 0.2), 0 1px 5px 0 rgba(76, 175, 80, 0.12);
 }
 
@@ -9861,8 +9861,8 @@ button:focus {
 .open>.btn.btn-success.dropdown-toggle,
 .show>.btn.btn-success.dropdown-toggle {
   color: #fff;
-  background-color: #47a44b;
-  border-color: #39843c;
+  background-color: #20b67c;
+  border-color: #20b67c;
   box-shadow: 0 2px 2px 0 rgba(76, 175, 80, 0.14), 0 3px 1px -2px rgba(76, 175, 80, 0.2), 0 1px 5px 0 rgba(76, 175, 80, 0.12);
 }
 
@@ -9879,8 +9879,8 @@ button:focus {
 .show>.btn.btn-success.dropdown-toggle:focus,
 .show>.btn.btn-success.dropdown-toggle.focus {
   color: #fff;
-  background-color: #47a44b;
-  border-color: #255627;
+  background-color: #20b67c;
+  border-color: #20b67c;
 }
 
 .open>.btn.btn-success.dropdown-toggle.bmd-btn-icon {
@@ -11844,7 +11844,7 @@ label {
 
 .title {
   margin-top: 30px;
-  margin-bottom: 28px;
+  margin-bottom: 20px;
   min-height: 32px;
 }
 
